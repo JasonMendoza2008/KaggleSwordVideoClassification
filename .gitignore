@@ -5,7 +5,8 @@ data/videos/use_sword/*
 !data/videos/use_sword/.gitkeep
 
 test_data/video_categories.csv
-test_data/video_categories_false.csv
+test_data/video_categories_both.csv
+test_data/video_categories_both - Copy.csv
 test_data/draw_sword
 test_data/sword
 test_data/frames
