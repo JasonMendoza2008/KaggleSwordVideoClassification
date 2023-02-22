@@ -1,0 +1,16 @@
+data/frames/*
+data/videos/sword_drawn/*
+data/videos/use_sword/*
+!data/videos/sword_drawn/.gitkeep
+!data/videos/use_sword/.gitkeep
+
+test_data/video_categories.csv
+test_data/video_categories_false.csv
+test_data/draw_sword
+test_data/sword
+test_data/frames
+test_data/videos/*
+!test_data/videos/.gitkeep
+
+.idea/*
+processing_test_set.ipynb
